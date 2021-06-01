@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CargoAirport.Aircraft">
+    <Position X="7" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEQAAQACEAAAAABAAAAAAAAAAAQIAAAgAAAAI=</HashCode>
+      <FileName>Aircraft.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CargoAirport.Cargo">
+    <Position X="10" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIgAAAAAgAAAgIAAAJAAAAAQAAABAAAEAQIABACKAgA=</HashCode>
+      <FileName>Cargo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CargoAirport.CargoStorage">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAEAAAAAAAACAQAECAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CargoStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CargoAirport.CargoTerminal">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAABAACAAAECAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CargoStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CargoAirport.CargoEnRoute">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAABAACAAAECAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CargoStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CargoAirport.CargoArchive">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAABAACAAAECAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CargoStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CargoAirport.FormAddNewAircraft" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAABAAAAECEAACiAAACAAAASAAAAAAAAABAAgAAAAAI=</HashCode>
+      <FileName>FormAddNewAircraft.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CargoAirport.FormAddNewCargo" Collapsed="true">
+    <Position X="6.75" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAABAAAAGCEAAACAABGAgMACAAQgEAEAABAIAAAAAAI=</HashCode>
+      <FileName>FormAddNewCargo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CargoAirport.FormMainWindow" Collapsed="true">
+    <Position X="5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gAgAoAgEgGEwgNIwAACRECBCEAAQCMAEYQoSAACIEAA=</HashCode>
+      <FileName>FormMainWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CargoAirport.FormManageAircraft" Collapsed="true">
+    <Position X="6.75" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAACAQAIAAAACACAEjAAAAJAAAAAgAAAAAIAA=</HashCode>
+      <FileName>FormManageAircraft.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CargoAirport.FormManageArchive" Collapsed="true">
+    <Position X="5" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAwAACAQgIEAIACAAAASAAAAAAAEAQIAAACIIAA=</HashCode>
+      <FileName>FormManageArchive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CargoAirport.FormSendToLoading" Collapsed="true">
+    <Position X="6.75" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AikAAAAAACAAAAAAAACAAAADBCAAAAAAAAgAAAAAIAA=</HashCode>
+      <FileName>FormSendToLoading.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CargoAirport.Program" Collapsed="true">
+    <Position X="8.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CargoAirport.Properties.Resources" Collapsed="true">
+    <Position X="10.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CargoAirport.Properties.Settings" Collapsed="true">
+    <Position X="9.5" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
